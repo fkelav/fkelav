@@ -4,7 +4,7 @@
 
 ## Projects
 
-###  [Discord Status → Spotify Lyrics](https://github.com/fkelav/Discord-status-changer-to-spotify-lyrics)
+### 🎶 [Discord Status → Spotify Lyrics](https://github.com/fkelav/Discord-status-changer-to-spotify-lyrics)
 > Syncs your Discord custom status to your Spotify lyrics — line by line, in real time.
 
 Built entirely in Python. Connects to the Spotify API and Discord, fetches synced LRC lyrics from multiple providers (LrcLib, NetEase, Genius), and updates your status as each lyric line plays. Handles pauses, seeks, track changes, rate limits, and background prefetching so it never skips a beat.
