@@ -14,7 +14,7 @@ Built entirely in Python. Connects to the Spotify API and Discord, fetches synce
 ---
 
 ### 🎮 [Fatality.win Lua Scripts](https://github.com/fkelav/Fatality.win-lav-lua)
-> Custom Lua scripts written for the Fatality.win CS2 cheat platform.
+> Custom Lua script written for the Fatality.win CS2
 
 Scripted using the Fatality Lua API (LuaJIT 2.1).
 
