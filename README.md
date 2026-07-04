@@ -33,6 +33,15 @@ Adds an animated nick changer that shows a spinning loader and wave effect cycli
 **Stack:** `Lua` · `Bankroll.su API` · `CS2`
  
 ---
+
+### 🖼️ [img2ASCII](https://github.com/fkelav/img2ACSII)
+> Turns any image into colored ASCII art — right in your terminal, or exported as HTML, ANSI, or plain text.
+
+Handles transparency with proper alpha compositing, auto contrast-stretching for flat/cartoon-style images, and smart interactive mode that recommends size and dot-mode based on the image itself. Exports to `.html`, `.ansi`, or `.txt`.
+
+**Stack:** `Python` · `Pillow` · `NumPy`
+
+---
  
 ## 💻 skills
  
