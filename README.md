@@ -42,6 +42,15 @@ Handles transparency with proper alpha compositing, auto contrast-stretching for
 **Stack:** `Python` · `Pillow` · `NumPy`
 
 ---
+
+### 🖥️ [winfetch](https://github.com/fkelav/Winfetch)
+> A neofetch-style system info tool for Windows terminals — colored ASCII art next to your PC stats, right in CMD, PowerShell, or Windows Terminal.
+
+No dependencies beyond Python's standard library. Supports custom `.ascii`/`.ansi`/`.html` art, a full 16-color palette for info labels, and remembers your settings for next time.
+
+**Stack:** `Python`
+
+---
  
 ## 💻 skills
  
